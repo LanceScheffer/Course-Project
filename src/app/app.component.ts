@@ -10,7 +10,6 @@ export class AppComponent {
   // title = 'Course-Project';
   onNavigate(feature: string){
     this.loadedFeature = feature;
-    console.log(feature);
 
   }
 }
